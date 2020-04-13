@@ -1,0 +1,9 @@
+	Todo trabajo deberá utilizar para el contenido fuente tamaño 12 y tipo Arial. 
+	Los títulos y subtítulos deberán ser resaltados en negrita y en tamaño 14.
+	Los márgenes del documentos serán de 1 pulgada en todas las direcciones.
+	El espaciado del documento será de 1.5 líneas.
+	Si utiliza tablas y/o ilustraciones, deberá colocarle un pie que las identifique y una numeración secuencial.
+	Las páginas deberán estar numeradas y tamaño 8.5 * 11
+	Para las referencias bibliográficas deberá utilizar el formato APA, el cual indica la manera correcta de referenciar, libros de texto, direcciones electrónicas, artículos, etc.
+	Los trabajos deben ser entregados en un cartapacio de color VERDE ,  utilizando una espiral o gancho de plástico dependiendo de la naturaleza del mismo.
+	El uso de encabezado y pie de página está permitido.
