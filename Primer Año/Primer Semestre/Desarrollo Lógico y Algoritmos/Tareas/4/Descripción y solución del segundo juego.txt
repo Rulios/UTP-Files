@@ -1,0 +1,50 @@
+Tenemos 3 caníbales y 3 misioneros, su misión es cruzar al otro río sin tener a nadie perjudicado.
+Disponemos de una barca con capacidad para 2 elementos. 
+La condición es que no debe haber más caníbales que misioneros en un lado, porque sino se los comen.
+
+Pasos para la solución:
+
+Supongamos una barca B. y los extremos: A, donde tenemos inicialmente a los caníbales y misioneros;
+c, donde queremos llegar.
+
+Presentaré un formato tipo arreglo, aunque es un objeto, donde muestre que no se rompe la condición.
+
+ A(Elementos en el extremo A), B(elementos en la barca B), C(elementos en el extremo C)
+
+Inicialmente tenemos: A(3 caníbales y 3 misioneros), B(), C()
+
+1)Introducimos a 1 caníbal y 1 misionero a la barca B.
+A(2 caníbales y 2 misioneros), B(1 caníbal y 1 misionero), C()
+
+2)Pasamos a 1 caníbal al extremo C, dejando a 1 misionero en la barca B
+A(2 caníbales y 2 misioneros), B(1 misionero), C(1 caníbal)
+
+3)Dejamos a 1 misionero de la barca B al extremo A, y subimos a 2 caníbales a la barca B.
+A(3 misioneros), B(2 caníbales), C(1 caníbal)
+
+4) Pasamos a 1 caníbal al extremo C, dejando 1 caníbal en la barca B.
+A(3 misioneros), B(1 caníbal), C(2 caníbales)
+
+5)Regresamos al extremo A, dejamos a 1 caníbal con 1 misionero ahí y abordamos a 2 misioneros a la barca B.
+A(1 caníbal y 1 misionero), B(2 misioneros), C(2 caníbales)
+
+6)Vamos al extremo C y dejamos 1 misionero y subimos a la barca B 1 caníbal.
+A(1 caníbal y 1 misionero), B(1 caníbal y 1 misionero), C(1 caníbal y 1 misionero)
+
+7)Regresamos al extremo A y dejamos al caníbal (1) y subimos otro misionero a la barca B, teniendo dos misioneros en la barca B.
+A(2 caníbales), B(2 misioneros), C(1 caníbal y 1 misionero)
+
+8)Dejamos a los 2 misioneros en el extremo C y subimos al único caníbal a la barca B.
+A(2 caníbales), B(1 caníbal), C(3 misioneros)
+
+9)Regresamos al extremo A y subimos 1 caníbal a la barca B, dejando 1 solo caníbal en el extremo A.
+A(1 caníbal), B(2 caníbales), C(3 misioneros)
+
+10)Dejamos a 1 caníbal en el extremo C.
+A(1 caníbal), B(1 caníbal), C(3 misioneros y 1 caníbal)
+
+11) Regresamos al extremo A y recogemos al único caníbal de ese extremo y lo subimos a la barca B.
+A(), B(2 caníbales), C(3 misioneros y 1 caníbal)
+
+12) Por último dejamos a los dos caníbales de la barca B en el extremo C.
+A(), B(), C(3 misioneros y 3 caníbales)

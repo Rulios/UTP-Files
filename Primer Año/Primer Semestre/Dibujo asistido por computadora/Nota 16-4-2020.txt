@@ -1,0 +1,29 @@
+3 aspectos para la línea:
+ - Espesor de Línea
+ - Precisión
+ - Geometría de la línea
+ - Nitidez
+
+Se dibuja primera la línea de construcción, después se revisa y se pasa a la línea de contorno. Y esta
+será la última
+
+La línea oculta sirve para indicar planos que pueden ser rectos o curvos que están dentro o detrás de una pieza.
+
+Al trazar la línea de construcción, no se debe hacer fuerza, sino solamente trazarlo. 
+
+La línea oculta, fantasma  y de centro , son igualmente delgadas que la línea de construcción, pero son más oscuras.
+
+Línea de construcción = 2h
+Línea de contorno = HB
+Línea oculta = 2h
+Línea de centro = 2H | 1 trazo corto
+Línea fantasma = 2h | 2 trazos cortos	 / Pueden mostrar movimiento, repetición(se repite la forma)
+
+Los trazos cortos miden 3-4mm
+
+La línea del marco debe ser la más gruesa
+
+Marco en 10mm
+Letras del trazado con HB
+
+Las líneas que nos manda a hacer (del trabajo, no del marco) se hacen con HB

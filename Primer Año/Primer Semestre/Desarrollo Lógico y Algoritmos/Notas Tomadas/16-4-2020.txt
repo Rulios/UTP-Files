@@ -1,0 +1,15 @@
+Etapa de programación
+
+Definición del problema
+Análisis y diseño del problema
+Codificación
+Compilación
+
+
+1)Tener que hacer el Diseño del Problema
+Narrar el problema
+
+2)Escribir el algoritmo en lenguaje natural (Receta de cocina)
+
+
+3)Cantidad de intentos que correspondió y capturas de pantalla

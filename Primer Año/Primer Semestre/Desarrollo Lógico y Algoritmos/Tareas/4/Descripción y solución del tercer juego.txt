@@ -1,0 +1,52 @@
+Tenemos a una familia de 5 integrantes, tienen que cruzar un puente con capacidad de flujo de solamente
+2 personas. Además, tienen una lámpara que dura 30 segundos, y que es imprescindible
+llevarla en el recorrido al otro extremo. Por lo que asignan un tiempo de recorrido 
+de acuerdo a su habilidad física. 
+
+Desglosamos las personas y su tiempo en:
+A- 1s
+B- 3s
+C- 6s
+D- 8s
+E- 12s
+
+Pasos+
+
+Formato: A(elementos en el extremo A), B(elementos en el extremo B)
+
+Suponemos el extremo A como el extremo inicial, y el extremo B como el extremo a llegar.
+1) Juntamos A y B y lo pasamos al extremo B
+
+A(C,D,E), B(A,B)
+Tiempo consumido: 3s
+
+2) Pasamos A al extremo A
+
+A(A,C,D,E), B(B)
+Tiempo consumido: 4s
+
+3) Juntamos D y E al extremo B
+
+A(A,C), B(D,E,B)
+Tiempo consumido: 16s
+
+4) Pasamos B al extremo A
+
+A(A,C,B), B(D,E)
+Tiempo consumido: 19s
+
+5) Pasamos A y C al extremo B
+
+A(B), B(A,C,D,E)
+Tiempo consumido: 25s
+
+
+6) Pasamos A al extremo A
+
+A(A,B), B(C,D,E)
+Tiempo consumido: 26s
+
+7) Por último, pasamos A y B al extremo B
+
+A(), B(A,B,C,D,E)
+Tiempo consumido 29s

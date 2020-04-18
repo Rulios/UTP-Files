@@ -1,0 +1,16 @@
+Un comerciante quiere cruzar el río una oveja, una caja de lechugas y un lobo.
+Pero la capacidad del bota es de un elemento. 
+
+Al estar sin supervisión, se tiene que:
+El lobo se come a la oveja
+La oveja se come la caja de lechugas.
+
+Por lo que mi solución fue
+Supongamos que hay dos extremos del río, extremo A donde se encuentran los elementos
+y extremo B, donde se quiere llegar.
+
+1)Pasamos la oveja al extremo B
+2) Regresamos al extremo A y se recoge la lechuga para transportarla al extremo B
+3) Al estar supervisado, no pasará nada, por lo que regresamos la oveja al extremo A.
+4) Al estar supervisado, no pasará nada, por lo que transportamos el lobo al extremo B.
+5) Regresamos al extremo A y llevamos la oveja al extremo B y terminamos la misión.
