@@ -1,0 +1,20 @@
+Formato General del pseudocódigo
+
+Algoritmo Nombre_Algoritmo
+{
+
+	//Bloque Declarativas de Constantes - si aplica
+		declaración de constantes;
+
+	//Bloques declarativas de varaibles
+
+
+
+}
+
+
+
+
+Reglas:
+
+El nombre del algoritm

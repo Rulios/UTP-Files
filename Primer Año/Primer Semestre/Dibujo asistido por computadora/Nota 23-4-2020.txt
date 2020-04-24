@@ -1,0 +1,28 @@
+Intesidad = grado de oscuridad
+
+Usamos la norma ANSI en Panamá
+
+Letras de un plano:
+
+deben ser letras de molde
+
+Letra cuadrada : abarca igual cantidad de cuadros horizontalmente como verticalmente
+Letra rectangular: depende horizontalmente y verticalmente. 
+
+Letras 3mm en papel
+Respetar los espacios entre letras
+
+Trabajo de letras:
+2 reglones de 4mm para el título
+Líneas de marco deben ser marcadas bien con 2h
+Renglones = líneas de construcción
+Separación de 5mm con líneas de construcción
+Máximo de 8 letras por renglón, aunque depende de las letras y su proporción
+Redondear las distancias que nos da de la figura
+Tamaño de letra 3mm
+Letras con HB
+
+Formato de fecha:
+6-4-2020
+
+día-mes-año
