@@ -1,0 +1,31 @@
+Escalas métricas
+
+Sistema métrico
+
+Definición: 
+	Escala: es la relación que existe entre el objeto real y el dibujo que lo representa
+	Se expresa -> E=OR/OD
+
+Dibujo a escala:
+	Es aquel dibujo que conserva la geometría y las proporciones del objeto real
+
+Tipos de escala:
+
+	Escala natural: no se alteran las dimensiones originales
+		1:1
+	Escala de ampliación: se agranda el tamaño conservando la geometría y proporciones
+		2:1, 5:1
+	Escala de reducción: se disminuye el tamaño conservando la geometría y proporciones
+		1:25, 1:500
+
+Lectura de escala:
+	1:33,1:25,1:20 = cada rayita pequeña mide 2 cm
+	Para las otras escala = cada rayita mide 10cm
+
+Para la tarea, las medidas que nos da están escritas en metros. Debemos 
+de buscar una escala que me ofrezca el dibujo en el papel adecuado.
+
+En la escala, ponemos INDIC.
+
+Si no tenemos la escala 1:33, usamos la 1:25 en su posición, estas líneas
+son libres, solamente que queden marcadas
