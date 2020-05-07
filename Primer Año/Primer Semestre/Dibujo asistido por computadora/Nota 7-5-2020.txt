@@ -1,0 +1,33 @@
+Construcciones geométricas
+
+
+Polígonos regulares:
+
+Para dibujar un polígono, se parte de un círculo con cierto diámetro que
+van a demostrar el tamaño del polígono.
+
+Si el polígono se dibuja en la parte de afuera del círculo de llama
+circunscrito.
+
+Si el polígono se dibuja en la parte de adentro del cículo de llama inscrito
+
+Comenzamos con líneas de construcción.
+
+Para el hexágono inscrito, se marca con las escuadras, un ángulo de 30 diagonales, pasando
+por el centro.
+
+Para el hexágono circunscrito, se marca con las escuadras, un ángulo de 60 diagonales
+pasando por el centro.
+
+Para el octágono inscrito, se marcan con las escuadraas, un ángulo de 45 diagonales
+pasando por el centro
+
+Para hacer un pentágono inscrito, se usa mucho el compás
+
+////
+Arcos tangentes: técnicas que se usan en el dibujo para dar continuidad a lineas
+y a dibujos
+
+Tipos: entre líneas, entre línea y arco, entre arco.
+	
+

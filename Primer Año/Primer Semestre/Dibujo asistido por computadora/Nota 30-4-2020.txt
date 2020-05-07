@@ -29,3 +29,5 @@ En la escala, ponemos INDIC.
 
 Si no tenemos la escala 1:33, usamos la 1:25 en su posición, estas líneas
 son libres, solamente que queden marcadas
+
+TÍTULO = 4MM , La palabra OBELISCO es en 4mm; y la palabra escala va a 3mm
