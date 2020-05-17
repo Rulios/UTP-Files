@@ -1,0 +1,115 @@
+Nombre;Seccional;Facultad;Cargo;Salario;Fch nacimiento;Sexo
+Luisa,Sierra;Medellin;Administracion;Docente;2,700,000;21/11/1964;F
+Julian,Sierra;Medellin;Ingenieria;Docente;2,400,000;02/12/1964;M
+Amalia,Duque;Medellin;Medicina;Docente;4,900,000;25/01/1965;F
+Miguel,Gutierrez;Bogota;Derecho;Docente investigador;4,100,000;09/08/1967;M
+Adriana,Suarez;Bogota;Derecho;Docente;3,200,000;20/08/1967;F
+Javier,Hoyos;Monteria;Comunicacion;Administrativo;5,600,000;24/08/1937;M
+Dalia,Santana;Medellin;Diseno;Tecnico;1,100,000;30/09/1961;F
+Amalia,Lemos;Medellin;Ingenieria;Docente;3,200,000;11/10/1961;F
+Natalia,Vergara;Bogota;Derecho;Docente investigador;3,200,000;28/08/1969;F
+Jorge,Aristizabal;Monteria;Ingenieria;Aux. Administrativo;1,200,000;08/09/1940;M
+Rafael,Idarraga;Palmira;Diseno;Administrativo;4,200,000;21/11/1962;M
+Elena,Cortes;Medellin;Administracion;Docente;1,350,000;02/12/1962;F
+Jacobo,Perez;Bogota;Publicidad;Docente investigador;3,700,000;06/12/1952;M
+Alberto,Bustos;Medellin;Administracion;Docente;1,350,000;23/10/1965;M
+Tomas,Pelaez;Medellin;Administracion;Tecnico;1,350,000;03/11/1965;M
+Angelina,Ramirez;Monteria;Ingenieria;Administrativo;4,100,000;07/11/1955;F
+Juan,Pulgarin;Medellin;Diseno;Administrativo;5,600,000;27/06/1970;M
+Maria,Arango;Medellin;Ingenieria;Aux. Administrativo;1,350,000;08/07/1970;F
+Monica,Lema;Medellin;Medicina;Administrativo;5,700,000;12/07/1970;F
+Antonio,Castro;Palmira;Diseno;Docente;3,200,000;11/12/1962;M
+Francisco,Merizalde;Palmira;Diseno;Docente;3,200,000;22/12/1962;M
+Oscar,Arias;Medellin;Administracion;Docente;1,350,000;03/04/1966;M
+Carmen,Cifuentes;Medellin;Administracion;Aux. Administrativo;1,350,000;14/04/1956;F
+Isabel,Uribe;Medellin;Diseno;Administrativo;4,350,000;18/04/1956;F
+Karina,Salamanca;Medellin;Ingenieria;Tecnico;1,700,000;25/08/1954;F
+Brenda,Jimenez;Monteria;Ingenieria;Docente;3,200,000;05/09/1954;F
+Catalina,Aguirre;Bogota;Derecho;Docente;3,200,000;13/09/1965;F
+Carlos,Osorio;Medellin;Medicina;Administrativo;2,300,000;24/09/1965;M
+Manuela,Gomez;Medellin;Diseno;Aux. Administrativo;1,350,000;25/06/1965;F
+Maritza,Casadiegos;Medellin;Ingenieria;Docente;3,200,000;28/09/1955;F
+Elisa,Munoz;Bucaramanga;Ingenieria;Docente;3,800,000;06/07/1955;F
+Dinara,Mota;Bucaramanga;Ingenieria;Administrativo;5,600,000;10/07/1955;F
+Alejandra,Lopez;Medellin;Medicina;Tecnico;1,350,000;02/11/1964;F
+Jesus,Florez;Medellin;Diseno;Docente;3,800,000;13/11/1964;M
+Julieth,Bermudez;Medellin;Medicina;Docente;3,500,000;06/05/1964;F
+Eliana,Osorio;Palmira;Administracion;Docente;3,200,000;17/05/1964;F
+Juliana,Ramirez;Bucaramanga;Ingenieria;Docente;3,100,000;21/05/1964;F
+Carolina,Castrillon;Medellin;Ingenieria;Docente;3,200,000;07/10/1965;F
+Alicia,Cano;Bucaramanga;Ingenieria;Aux. Administrativo;1,350,000;18/10/1965;F
+Manuel,Perez;Bucaramanga;Ingenieria;Docente;1,980,000;22/07/1958;M
+Gabriel,Toro;Bogota;Publicidad;Docente investigador;3,600,000;02/08/1958;M
+Susana,Rodas;Bogota;Derecho;Administrativo;3,200,000;06/08/1948;F
+Sara,Ruiz;Medellin;Diseno;Docente;2,300,000;07/06/1960;F
+Gustavo,Vallejo;Medellin;Ingenieria;Docente;4,000,000;18/06/1960;M
+Raquel,Mendez;Medellin;Medicina;Docente;2,940,000;22/06/1960;F
+Tammy,Medina;Medellin;Administracion;Docente;1,280,000;08/05/1959;F
+Sandra,Mendez;Bogota;Publicidad;Administrativo;4,200,000;19/05/1959;F
+Evelyn,Cano;Bogota;Publicidad;Docente investigador;3,600,000;23/05/1959;F
+Pablo,Diaz ;Bucaramanga;Administracion;Docente;5,600,000;09/03/1968;M
+David,Rojas ;Bogota;Publicidad;Docente investigador;3,400,000;19/03/1958;M
+Gloria,Jaramillo;Monteria;Ingenieria;Docente;3,200,000;23/03/1958;F
+Pamela,Tamayo;Bucaramanga;Ingenieria;Aux. Administrativo;1,350,000;24/10/1962;F
+Jessica,Serna;Medellin;Ingenieria;Docente;4,800,000;04/11/1962;F
+Guillermo,Marquez;Palmira;Administracion;Docente;4,500,000;26/06/1963;M
+Karen,Fernandez;Palmira;Diseno;Aux. Administrativo;1,500,000;07/07/1963;F
+Leonardo,Restrepo;Bucaramanga;Ingenieria;Docente;2,600,000;11/07/1963;M
+Mariana,Vasquez;Bogota;Publicidad;Docente;3,200,000;04/01/1967;F
+Daniel,Gomez;Medellin;Administracion;Docente;1,460,000;15/01/1967;M
+Angela,Ospina;Monteria;Ingenieria;Tecnico;2,800,000;19/01/1967;F
+Andres,Alzate;Medellin;Ingenieria;Docente;3,200,000;11/09/1965;M
+Simon,Pelaez;Medellin;Medicina;Aux. Administrativo;1,390,000;22/09/1965;M
+Sofia,Gracia;Medellin;Diseno;Docente;2,300,000;26/09/1965;F
+Lina,Marulanda;Medellin;Medicina;Docente;3,600,000;20/05/1960;F
+Marcela,Villamizar;Palmira;Administracion;Aux. Administrativo;1,500,000;31/05/1960;F
+Samuel,De santis;Medellin;Ingenieria;Docente;3,200,000;04/06/1960;M
+Tatiana,Rico;Medellin;Diseno;Administrativo;2,500,000;29/09/1963;F
+Jose,Arango;Palmira;Administracion;Docente;3,200,000;10/10/1963;M
+Daniela,Carmona;Palmira;Administracion;Docente;3,200,000;14/10/1963;F
+Stepania,Franco;Bucaramanga;Ingenieria;Docente;1,350,000;01/09/1962;F
+Estefania,Zapata;Palmira;Administracion;Docente;3,200,000;17/01/1964;F
+David,Villegas;Palmira;Diseno;Docente;3,200,000;12/09/1962;M
+Luis,Lemus;Medellin;Administracion;Docente;1,350,000;28/01/1964;M
+Jorge,Melano;Monteria;Comunicacion;Docente;6,500,000;01/09/1969;M
+Sebastian,Zea ;Medellin;Administracion;Docente;1,500,000;12/09/1969;M
+Juan,Carmona;Bogota;Publicidad;Docente investigador;3,700,000;16/09/1969;M
+Camilo,Hernandez ;Palmira;Diseno;Docente;3,200,000;05/01/1960;M
+Cathy,Berrio;Bogota;Derecho;Docente;3,200,000;16/01/1940;F
+Esteban,Higuita;Monteria;Ingenieria;Aux. Administrativo;1,350,000;10/05/1965;M
+Alexandra,Giraldo;Medellin;Diseno;Docente;2,300,000;22/05/1954;F
+Cristina,Guerrero;Medellin;Diseno;Administrativo;2,960,000;21/05/1965;F
+Isabella,Cock;Bucaramanga;Administracion;Administrativo;5,600,000;26/05/1955;F
+Sergio,Marquez;Monteria;Comunicacion;Docente;5,600,000;02/06/1954;M
+Melisa,Posada;Medellin;Medicina;Tecnico;1,900,000;23/10/1962;F
+Mauricio,Uribe;Bogota;Derecho;Docente;4,700,000;03/11/1962;M
+Monica,Arango;Medellin;Diseno;Tecnico;2,000,000;03/10/1968;F
+Gonzalo,Arango ;Bucaramanga;Administracion;Docente;1,350,000;14/10/1968;M
+Ana Maria,Betancur;Medellin;Diseno;Docente;2,300,000;18/10/1968;F
+Andrea,Rodriguez ;Monteria;Ingenieria;Docente;3,200,000;17/08/1969;F
+Diana,Carmona ;Medellin;Ingenieria;Administrativo;5,600,000;28/08/1959;F
+Alejandro,Caro;Monteria;Ingenieria;Aux. Administrativo;1,600,000;01/09/1969;F
+Roberta,Simanca;Medellin;Diseno;Aux. Administrativo;1,350,000;02/09/1960;F
+Melina,Toledo;Medellin;Diseno;Administrativo;2,600,000;13/09/1960;F
+Patricia,Acevedo;Medellin;Administracion;Administrativo;5,600,000;21/09/1958;F
+Barbara,Diez;Bucaramanga;Ingenieria;Docente;2,100,000;24/02/1961;F
+Lisa,Henao;Medellin;Diseno;Docente;2,300,000;07/03/1961;F
+Felipe,Guerra;Medellin;Administracion;Administrativo;2,560,000;28/05/1969;M
+Elena,Arango;Medellin;Administracion;Administrativo;2,400,000;08/06/1949;F
+Miguel,Garces;Medellin;Ingenieria;Docente;3,200,000;12/06/1949;M
+Paula,Sanchez;Medellin;Diseno;Docente;4,100,000;26/02/1951;F
+Luisa,Palacio;Medellin;Diseno;Docente;4,900,000;09/03/1951;F
+Felipe,Granda;Medellin;Administracion;Aux. Administrativo;1,350,000;22/03/1965;M
+Santiago,Girando;Medellin;Administracion;Docente;1,350,000;02/04/1965;M
+Hilda,Jaramillo;Bucaramanga;Administracion;Docente;2,900,000;06/04/1945;F
+Camila,Rodriguez;Bogota;Derecho;Docente investigador;3,900,000;04/05/1969;F
+Victoria,Dominguez ;Bucaramanga;Administracion;Docente;4,600,000;17/09/1951;F
+Santiago,Hincapie;Bucaramanga;Administracion;Aux. Administrativo;1,350,000;15/05/1969;M
+Mariana,Betancurt;Monteria;Comunicacion;Docente;3,200,000;19/05/1969;F
+Jeronimo,Diaz ;Palmira;Administracion;Administrativo;3,200,000;28/09/1951;M
+Karla,Burgos;Bucaramanga;Administracion;Aux. Tecnico;980,000;02/10/1951;F
+Carlos,Molina;Bogota;Derecho;Docente;3,200,000;28/09/1970;M
+Ana,Posada;Medellin;Ingenieria;Aux. Administrativo;1,350,000;09/10/1970;F
+Virginia,Jaramillo;Monteria;Comunicacion;Docente;4,200,000;13/10/1960;F
+Federico,Saldarriaga;Medellin;Diseno;Tecnico;1,300,000;15/09/1967;M
+Lucero,Arroyave;Monteria;Ingenieria;Docente;3,200,000;26/09/1967;F

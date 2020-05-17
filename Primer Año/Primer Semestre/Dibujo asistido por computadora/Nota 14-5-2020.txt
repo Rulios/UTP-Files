@@ -1,0 +1,21 @@
+Método alterno: para dibujar figuras que no se puede con las escuadras.
+
+Dividimos el eje AB por la cantidad de lados del polígono.
+Esa división lo hacemos con la técnica de división de líneas
+
+ELIPSES: hay dos métodos 1) elipse verdadera (matemática) 2) elipse aproximada (4 centros)
+
+Proyecciones ortoganales u ortográficas:
+
+	Una proyección a 90 grados
+	Puntos de vista del observador: posiciones de vistas de un sólido o figura
+	volumétrica.
+	
+	Proyección isométrica = ver el volumen de la figura.
+
+	Hay 6 puntos de vista:
+	Superior, inferior, frontal, posterior, lateral derecho, lateral izquierdo.|
+
+	Vista superior = planta.
+	
+
