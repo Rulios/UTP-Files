@@ -1,0 +1,20 @@
+si(condicion){ //Estructura simple
+}
+
+Este si debe ser minuscula
+UTILIZAR BIEN LA IDENTACION
+Minuscula
+
+si(condicion){ //Estructura alternativa
+
+}de otro modo{
+
+}
+
+si(condicion){ //Estructura alternativa múltiples
+}de otro modo 
+	si (condicion){ 
+
+	}de otro modo{
+
+	}

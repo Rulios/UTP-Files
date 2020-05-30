@@ -1,0 +1,19 @@
+Portada de Presentación
+
+Institución/Facultad/Carrera/Curso/Grupo
+Título del Trabajo
+Nombres Apellidos y # cédulas de los estudiantes
+Nombre y Apellido del profesor
+Fecha
+
+Elementos que incluirá en el trbajo son:
+Portada
+Tablas(contenido, ilustraciones, anexos etc.)
+Introducción (1 cara)
+Contenido	
+Conclusión (una conclusión sencilla)
+Bibliografía / Infografía
+
+Se entregará en un archivo digital el dí de la presentación.
+
+Todo debe tener números de páginas.

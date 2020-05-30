@@ -1,0 +1,4 @@
+Las líneas de centro son para representar la ubicación
+de un círculo. Estas se marcan en el eje central del círculo.
+
+Examen 1b dentro de 15 días.

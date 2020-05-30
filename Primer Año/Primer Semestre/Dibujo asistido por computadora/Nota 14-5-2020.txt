@@ -17,5 +17,27 @@ Proyecciones ortoganales u ortográficas:
 	Superior, inferior, frontal, posterior, lateral derecho, lateral izquierdo.|
 
 	Vista superior = planta.
+
+	//////////////////////////////
+	Proyecciones ortográficas:
+	
+	Imágenes bidimensionales.
+	Altura, anchura, profundidad
+	Vamos a considerar 3 proyecciones báscias: lateral derecho, frontal y superior
+	Vista vertical = vista frontal
+	
+	Lineas de proyección = líneas de construcción
+	Estas líneas deben proyectar otras vistas como referencia.
+	
+	Línea INGLETE = línea de 45 grados donde convergen los planos
+	Estas líneas transportan la profundidad, son líneas de construcción
+
+	Los planos ocultos se representan con líneas ocultas
+	Los planos que no son ocultos se marcan con la misma línea	
+
+	Superficies rectas: 
+
+
+	
 	
 
