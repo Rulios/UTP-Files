@@ -1,0 +1,44 @@
+Estructura de mi conversacion del panel.
+
+- Comenzar con una postura abierta sobre el mismo.
+
+- Explicar brevemente los distintos algoritmos de inteligencia artificial
+	- Regresión lineal (Líneas, valor continuo)
+	- Regresión logística (Categorizar)
+	- Redes neuronales 
+
+- Eventos de Sucesos: 
+	- Victoria de una IA en Dota 2 contra el campeón OG de The International
+	  jugaron a 45000 años de Dota 2. 
+
+	- Victoria de una IA al campeón de Go
+	- Popularidad de FaceApp (Cambio de género mediante foto)
+	- Colorear y definir un video de los años 20.
+	- Coche autónomos
+
+- Mencionar compañías que trabajan en esto y sus objetivos:
+	- OpenAI 
+	- Neuralink
+	- Google Deepmind - mencionar el paper
+
+Paper sobre un killswitch a una IA.
+Safely Interruptible Agents , con colaboración con la Universidad de Oxford
+
+
+Dejar en claro que estamos llegando casi al límite donde podemos fabricar transistores más pequeños
+Por lo que la ley de Moore quedó obsoleta.
+Referencia al productor panameño, El Chombo creador de Dame Tu Cosita, él dice que jamás podrá
+reemplazarse géneros de música donde se transmita los sentimientos.
+
+Conclusión:
+
+Referencia que un estudio de Oxford, revela que para el 2030 se reemplazarán más de 
+20 millones de empleos por robots. 
+
+Plantear diversos futuros. 
+	Importante decir sobre la futura intervención del Gobierno.
+	De manera con impuestos, leyes etc, profundizar un poco con los impuestos.
+	Ya que los impuestos sirven para un objetivo etc.
+Dar referencia al videojuego Detroit Become Human. 
+Dejar muy abierto la posibilidades.
+

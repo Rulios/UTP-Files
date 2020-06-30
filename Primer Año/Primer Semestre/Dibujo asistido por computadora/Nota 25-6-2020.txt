@@ -1,0 +1,54 @@
+Las líneas de contorno son líneas oscuras
+Las líneas de dimensión son líneas delgadas
+Los textos que muestran la dimensión no deben
+tocar las líneas de dimensión ni de extensión
+
+La separación entre la primera líneas de dimensión y de
+contorno, deben ser de aprox 7mm.
+
+La segunda es de 5mm.
+
+Se busca evitar cruces entre líneas de dimensión
+Entonces, se indica mejor el ángulo entre esas
+intersecciones.
+
+R = radio igual a
+ejemplo: R10.44 = Radio igual a 10.44
+
+Los agujeros definen el diámetro de un círculo
+Se representan con una O y una línea pasando
+en medio de ella diagonalmente.
+
+Criterios para acotar
+
+1- Colocar las medidas necesarias
+2- Ordernas las medidas en las vistas
+3- Poner las medidas en el contorno
+4- repartir las medidas en las vistas
+5- Localizar los centros
+
+Existen dos tipso de acotamiento:
+1- Acotamiento Escalonado
+2- Acotamiento Continuo
+
+No colocar medidas donde hay líneas ocultas
+
+
+SECCIONES
+
+Existe una línea de sección que se traza a 
+45 grados. Se separan a cada una de 3mm. 
+
+Se corta una figura.
+
+Plano cortante = plano que corta el objeto
+Al dibujarse en  un plano superior, debe de
+mostrarse con una línea y dos flechas a sus extremos
+indicando la dirección en donde el objeto se queda.
+Además, en esos extremos se le pone A.
+
+Sección Completa: sería cuando el plano cortante
+que corta de un extremo a otro extremo opuesto.
+
+
+
