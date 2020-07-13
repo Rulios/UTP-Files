@@ -1,0 +1,9 @@
+Proyecciones isométricas
+
+Los ejes isométricos dan la anchura, profundidad y altura.
+Los ejes x y z se levantan por un grado de 30.
+
+Se busca un punto de referencia para su
+construcción.
+
+
