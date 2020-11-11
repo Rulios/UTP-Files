@@ -1,0 +1,2 @@
+[1021/220445.316:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\rober.DESKTOP-2TAK5A0\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\7b541594-a63b-4b31-9b44-34ecc2aad4ff: El sistema no puede encontrar la ruta especificada. (0x3)
+[1021/220445.319:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
