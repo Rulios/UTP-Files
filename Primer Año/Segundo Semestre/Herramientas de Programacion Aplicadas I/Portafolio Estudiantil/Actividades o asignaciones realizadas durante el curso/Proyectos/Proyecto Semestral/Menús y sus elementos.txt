@@ -1,0 +1,77 @@
+Los elementos necesarios de todos los menús
+PARA REVISAR SU INTERACCIÓN, REVISAR EL DIAGRAMA DE FLUJO QUE HAY EN EL DOCUMENTO
+
+LOS ELEMENTOS AÑADIDOS POR SECUENCIAS DE NÚMEROS VAN, ES DECIR, 
+1. , 2. ... VA A APARECER EN LA PANTALLA, PUESTO QUE SE USA PARA 
+INDICAR AL USUARIO LAS OPCIONES
+
+OPCIONES GRÁFICAS:
+-CAMBIO DE COLOR DE TEXTO
+-CAMBIO DE COLOR DEL FONDO
+-TABULACIONES CON \t
+
+-----MENÚ PRINCIPAL-----
+CLÍNICA UNIVERSITARIA DE LA UTP
+
+¡BIENVENIDO AL PROTOTIPO DE PROGRAMACION DE CITAS DE LA CLÍNICA!
+
+1. Añadir nueva cita
+2. Ver las citas reservadas
+3. Salir
+
+Seleccione una opción dentro de la numeracion correspondiente:
+
+
+----MENÚ DE AÑADIR NUEVA CITA---
+CLÍNICA UNIVERSITARIA DE LA UTP
+
+CITAS DISPONIBLES:
+.
+. //renderizado variable de acuerdo a los
+. //dias y horas disponibles
+
+ESCOGA LA CITA POR SU NUMERACION CORRESPONDIENTE: 
+	Nombre del paciente:
+	Apellido del paciente:
+	Cédula del paciente:
+	Tipo de Servicio a usar:
+		1.Consultas y evaluaciones medicas con previa cita.
+		2.Consultas y evaluaciones de urgencias.
+		3.Referencias a especialidades médicas.
+		4.Certificado de buena salud.
+		5.Solicitudes de estudios de gabinete.
+		6.Administración gratuita de medicamentos básicos.
+		7.Curaciones y corte de puntos.
+		8.Control de peso y talla.
+		9.Control de presión arterial.
+		10.Inhaloterapias.
+		11.Aplicación de medicamentos inyectables.
+		12.Toma de glicemia capilar.
+
+	Seleccione el servicio de acuerdo con la numeración: 
+	
+¡CITA AÑADIDA!
+
+---MENU DE VER CITAS RESERVADAS
+CLINICA UNIVERSITARIA DE LA UTP
+
+CITAS RESERVADAS:
+
+//renderizado variable
+
+	1.	Dia:
+		Hora:
+		Cedula:
+		Nombre:
+		Apellido:
+		Servicio:
+	
+	2.   	Dia:
+	.
+	.
+	.
+
+¿Desea eliminar una cita? (s/n)?:
+Numeración de la cita:
+
+
